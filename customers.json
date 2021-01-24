@@ -1,51 +1,41 @@
 [{
     "ID": 1,
-    "CompanyName": "Premier Buy",
+    "Name": "Allen",
     "Address": "7601 Penn Avenue South",
     "City": "Richfield",
     "State": "Minnesota",
     "Zipcode": 55423,
-    "Phone": "(612) 291-1000",
-    "Fax": "(612) 291-2001",
-    "Website": "http://www.nowebsitepremierbuy.com"
+    "Phone": "(612) 291-1000"
 }, {
     "ID": 2,
-    "CompanyName": "ElectrixMax",
+    "Name": "Elena",
     "Address": "263 Shuman Blvd",
     "City": "Naperville",
     "State": "Illinois",
     "Zipcode": 60563,
-    "Phone": "(630) 438-7800",
-    "Fax": "(630) 438-7801",
-    "Website": "http://www.nowebsiteelectrixmax.com"
+    "Phone": "(630) 438-7800"
 }, {
     "ID": 3,
-    "CompanyName": "Video Emporium",
+    "Name": "Stefan",
     "Address": "1201 Elm Street",
     "City": "Dallas",
     "State": "Texas",
     "Zipcode": 75270,
-    "Phone": "(214) 854-3000",
-    "Fax": "(214) 854-3001",
-    "Website": "http://www.nowebsitevideoemporium.com"
+    "Phone": "(214) 854-3000"
 }, {
     "ID": 4,
-    "CompanyName": "Screen Shop",
+    "Name": "Klaus",
     "Address": "1000 Lowes Blvd",
     "City": "Mooresville",
     "State": "North Carolina",
     "Zipcode": 28117,
-    "Phone": "(800) 445-6937",
-    "Fax": "(800) 445-6938",
-    "Website": "http://www.nowebsitescreenshop.com"
+    "Phone": "(800) 445-6937"
 }, {
     "ID": 5,
-    "CompanyName": "Braeburn",
+    "Name": "Caroline",
     "Address": "1 Infinite Loop",
     "City": "Cupertino",
     "State": "California",
     "Zipcode": 95014,
-    "Phone": "(408) 996-1010",
-    "Fax": "(408) 996-1012",
-    "Website": "http://www.nowebsitebraeburn.com"
+    "Phone": "(408) 996-1010"
 }]
